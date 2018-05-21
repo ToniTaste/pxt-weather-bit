@@ -31,7 +31,7 @@ namespace weatherbit {
     let windMPH = 0
 
     // BME280 Addresses
-    const bmeAddr = 0x76
+    const bmeAddr = 0x77
     const ctrlHum = 0xF2
     const ctrlMeas = 0xF4
     const config = 0xF5
